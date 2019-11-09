@@ -1,0 +1,31 @@
+{
+  "name": "main",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "cookie-parser": "^1.4.4",
+    "debug": "^2.6.9",
+    "eslint-config-airbnb": "^18.0.1",
+    "express": "^4.16.4",
+    "http-errors": "^1.6.3",
+    "jade": "^1.11.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.5",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-rallycoding": "^3.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-react": "^7.16.0"
+  },
+  "main": ".eslintrc.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
